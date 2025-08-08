@@ -4,7 +4,4 @@ Sanity
 selenium
 pytest
 pytest-html
-<<<<<<< HEAD
 Allure-reports
-=======
->>>>>>> 06fde88e9d1ae37932d725e777849659cf491264
