@@ -15,3 +15,4 @@ class LoginPage(BasePage):
 
     def get_error_message(self):
         return wait_for_element(self.driver, By.XPATH, "//p[contains(@data-cy,'cy-passwordField-error')]", condition="visible").text
+

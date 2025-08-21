@@ -10,7 +10,7 @@ def setup_logger(name="test_logger", log_file="test_log.log", level=logging.INFO
     logger.setLevel(level)
 
     if not logger.handlers:
-        file_handler = logging.FileHandler(log_path)
+        file_handler = logging.FileHandler(log_path, encoding="utf-8")
         file_formatter = logging.Formatter("%(asctime)s - %(levelname)s - %(message)s")
         file_handler.setFormatter(file_formatter)
         logger.addHandler(file_handler)

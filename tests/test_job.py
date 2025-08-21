@@ -1,6 +1,5 @@
 import pytest
 from Pages.job_page import JobPage
-from utils.helpers import save_screenshot
 from utils.logger import logger
 
 @pytest.mark.usefixtures("init", "login")
@@ -26,11 +25,9 @@ class TestJob:
             scheduled_date=scheduled_date,
             cutoff_date=cutoff_date,
             assignee=assignee,
-            supervisor=supervisor
+            supervisor=supervisor,
         )
 
         job_name = job_page.get_created_job_title()
         logger.info("Job created: %s", job_name)
-        save_screenshot(self.driver, "job_created","Error Screenshots")
-
         assert title in job_name
