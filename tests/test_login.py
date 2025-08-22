@@ -16,7 +16,7 @@ class TestLogin:
     def test_wrong_email_wrong_password(self):
         self.login_page.enter_credentials("wrong@wrong.com", "wrongpass")
         self.login_page.click_signin()
-        assert "Incorrectj" in self.login_page.get_error_message()
+        assert "Incorrect" in self.login_page.get_error_message()
 
     def test_wrong_email_valid_password(self):
         self.login_page.enter_credentials(self.invalid_email, self.valid_password)

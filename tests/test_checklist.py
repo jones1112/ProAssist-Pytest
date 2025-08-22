@@ -1,12 +1,11 @@
 import pytest
 from Pages.checklist_page import ChecklistPage
 from utils.logger import logger
-from utils.base_page import BasePage
+
 
 
 @pytest.mark.usefixtures("init", "login")
-class TestChecklist(BasePage):
-
+class TestChecklist():
     def test_create_checklist(self):
         checklist_page = ChecklistPage(self.driver)
         title = "Automated Checklist - August 22"

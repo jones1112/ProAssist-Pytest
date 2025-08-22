@@ -8,7 +8,7 @@ from selenium.webdriver.common.by import By
 import pytest_html
 
 from utils.logger import setup_logger
-from utils.helpers import save_screenshot, wait_for_element
+from utils.helpers import  wait_for_element
 
 logger = setup_logger()
 
