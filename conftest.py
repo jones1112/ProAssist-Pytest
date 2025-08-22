@@ -38,7 +38,7 @@ def init(request):
     logger.info("Browser session ended.")
 
 
-# ---- Hook: attach screenshots on failure (HTML only) ----
+# attach screenshots on failure (HTML only) ----
 @pytest.hookimpl(hookwrapper=True)
 def pytest_runtest_makereport(item, call):
     outcome = yield

@@ -5,8 +5,6 @@ import time
 from Pages.forgot_password_page import ForgotPasswordPage
 from utils.logger import logger
 
-
-# If you prefer, you can also import config from conftest.
 project_root = os.path.abspath(os.path.join(os.path.dirname(__file__), '..'))
 config_path = os.path.join(project_root, 'config', 'config.ini')
 config = ConfigParser()

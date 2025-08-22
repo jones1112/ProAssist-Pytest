@@ -1,196 +1,102 @@
-2025-08-20 16:05:46,107 - INFO - Chrome launched and navigated to login page.
-2025-08-20 16:05:47,772 - INFO - Starting Checklist creation flow.
-2025-08-20 16:05:48,366 - INFO - [Saved] Screenshot → C:\Users\Jones\PycharmProjects\pythonProject\ProAssist\Screenshots\20250820_160548_FAILED_test_create_checklist.png
-2025-08-20 16:05:51,547 - INFO - Browser session ended.
-2025-08-20 16:05:54,080 - INFO - Chrome launched and navigated to login page.
-2025-08-20 16:05:56,661 - INFO - Toast message: Email sent successfully
-2025-08-20 16:05:56,779 - INFO - [Saved] Screenshot → C:\Users\Jones\PycharmProjects\pythonProject\ProAssist\Screenshots\20250820_160556_forgot_password.png
-2025-08-20 16:05:59,994 - INFO - Browser session ended.
-2025-08-20 16:06:04,455 - INFO - Chrome launched and navigated to login page.
-2025-08-20 16:06:09,473 - INFO - [Saved] Screenshot → C:\Users\Jones\PycharmProjects\pythonProject\ProAssist\Screenshots\20250820_160609_FAILED_test_create_job.png
-2025-08-20 16:06:12,717 - INFO - Browser session ended.
-2025-08-20 16:06:15,122 - INFO - Chrome launched and navigated to login page.
-2025-08-20 16:06:25,495 - INFO - Browser session ended.
-2025-08-20 16:06:27,846 - INFO - Chrome launched and navigated to login page.
-2025-08-20 16:06:51,230 - INFO - [Saved] Screenshot → C:\Users\Jones\PycharmProjects\pythonProject\ProAssist\Screenshots\20250820_160651_FAILED_test_logout.png
-2025-08-20 16:06:54,503 - INFO - Browser session ended.
-2025-08-20 16:09:23,346 - INFO - Chrome launched and navigated to login page.
-2025-08-20 16:09:24,922 - INFO - Starting Checklist creation flow.
-2025-08-20 16:09:25,556 - INFO - [Saved] Screenshot → C:\Users\Jones\PycharmProjects\pythonProject\ProAssist\Screenshots\20250820_160925_FAILED_test_create_checklist.png
-2025-08-20 16:09:28,804 - INFO - Browser session ended.
-2025-08-20 16:11:27,712 - INFO - Chrome launched and navigated to login page.
-2025-08-20 16:11:29,409 - INFO - Starting Checklist creation flow.
-2025-08-20 16:11:30,038 - INFO - [Saved] Screenshot → C:\Users\Jones\PycharmProjects\pythonProject\ProAssist\Screenshots\20250820_161129_FAILED_test_create_checklist.png
-2025-08-20 16:11:33,254 - INFO - Browser session ended.
-2025-08-20 16:12:19,178 - INFO - Chrome launched and navigated to login page.
-2025-08-20 16:12:22,724 - INFO - Starting Checklist creation flow.
-2025-08-20 16:12:23,478 - INFO - [Saved] Screenshot → C:\Users\Jones\PycharmProjects\pythonProject\ProAssist\Screenshots\20250820_161223_FAILED_test_create_checklist.png
-2025-08-20 16:12:26,697 - INFO - Browser session ended.
-2025-08-20 16:15:04,267 - INFO - Chrome launched and navigated to login page.
-2025-08-20 16:15:08,531 - INFO - [Saved] Screenshot → C:\Users\Jones\PycharmProjects\pythonProject\ProAssist\Screenshots\20250820_161508_FAILED_test_create_job.png
-2025-08-20 16:15:11,784 - INFO - Browser session ended.
-2025-08-20 16:15:33,754 - INFO - Chrome launched and navigated to login page.
-2025-08-20 16:15:43,632 - INFO - [Saved] Screenshot → C:\Users\Jones\PycharmProjects\pythonProject\ProAssist\Screenshots\20250820_161543_FAILED_test_create_job.png
-2025-08-20 16:15:46,966 - INFO - Browser session ended.
-2025-08-20 16:16:58,693 - INFO - Chrome launched and navigated to login page.
-2025-08-20 16:16:59,242 - INFO - [Saved] Screenshot → C:\Users\Jones\PycharmProjects\pythonProject\ProAssist\Screenshots\20250820_161659_FAILED_test_wrong_email_wrong_password.png
-2025-08-20 16:16:59,662 - INFO - [Saved] Screenshot → C:\Users\Jones\PycharmProjects\pythonProject\ProAssist\Screenshots\20250820_161659_FAILED_test_wrong_email_valid_password.png
-2025-08-20 16:17:00,417 - INFO - [Saved] Screenshot → C:\Users\Jones\PycharmProjects\pythonProject\ProAssist\Screenshots\20250820_161700_FAILED_test_valid_email_valid_password.png
-2025-08-20 16:17:03,634 - INFO - Browser session ended.
-2025-08-20 16:17:23,157 - INFO - Chrome launched and navigated to login page.
-2025-08-20 16:17:23,678 - INFO - [Saved] Screenshot → C:\Users\Jones\PycharmProjects\pythonProject\ProAssist\Screenshots\20250820_161723_FAILED_test_wrong_email_wrong_password.png
-2025-08-20 16:17:26,884 - INFO - Browser session ended.
-2025-08-20 16:30:02,528 - INFO - Chrome launched and navigated to login page.
-2025-08-20 16:30:05,125 - INFO - Toast message: Email sent successfully
-2025-08-20 16:30:05,277 - INFO - [Saved] Screenshot → C:\Users\Jones\PycharmProjects\pythonProject\ProAssist\Screenshots\20250820_163005_forgot_password.png
-2025-08-20 16:30:08,518 - INFO - Browser session ended.
-2025-08-20 16:39:21,419 - INFO - Chrome browser launched and navigated to login page.
-2025-08-20 16:39:25,630 - INFO - Browser session ended.
-2025-08-20 16:45:38,082 - INFO - Chrome browser launched and navigated to login page.
-2025-08-20 16:45:44,307 - INFO - [Saved] Screenshot → C:\Users\Jones\PycharmProjects\pythonProject\ProAssist\Screenshots\20250820_164544_FAILED_test_create_job.png
-2025-08-20 16:45:48,582 - INFO - Browser session ended.
-2025-08-20 16:49:02,648 - INFO - Chrome browser launched and navigated to login page.
-2025-08-20 16:49:15,558 - INFO - Job created: RE Hunter quarterly service
-2025-08-20 16:49:19,783 - INFO - Browser session ended.
-2025-08-20 16:50:45,937 - INFO - Chrome browser launched and navigated to login page.
-2025-08-20 16:50:46,364 - INFO - [Saved] Screenshot → C:\Users\Jones\PycharmProjects\pythonProject\ProAssist\Screenshots\20250820_165046_FAILED_test_wrong_email_wrong_password.png
-2025-08-20 16:50:50,576 - INFO - Browser session ended.
-2025-08-20 16:51:39,546 - INFO - Chrome browser launched and navigated to login page.
-2025-08-20 16:51:39,992 - INFO - [Saved] Screenshot → C:\Users\Jones\PycharmProjects\pythonProject\ProAssist\Screenshots\20250820_165139_FAILED_test_wrong_email_wrong_password.png
-2025-08-20 16:51:44,216 - INFO - Browser session ended.
-2025-08-20 17:02:53,668 - INFO - Chrome browser launched and navigated to login page.
-2025-08-20 17:02:56,303 - INFO - Starting Checklist creation flow.
-2025-08-20 17:02:57,109 - INFO - Entered checklist title
-2025-08-20 17:02:57,275 - INFO - Entered tag
-2025-08-20 17:02:57,630 - INFO - Entered description
-2025-08-20 17:02:59,733 - INFO - Checklist published: Automated Checklist - August 6
-2025-08-20 17:03:01,368 - INFO - Checklist created: Automated Checklist - August 6
-2025-08-20 17:03:05,602 - INFO - Browser session ended.
-2025-08-20 17:03:44,183 - INFO - Chrome browser launched and navigated to login page.
-2025-08-20 17:03:46,788 - INFO - Starting Checklist creation flow.
-2025-08-20 17:03:48,579 - INFO - [Saved] Screenshot → C:\Users\Jones\PycharmProjects\pythonProject\ProAssist\Screenshots\20250820_170348_FAILED_test_create_checklist.png
-2025-08-20 17:03:52,795 - INFO - Browser session ended.
-2025-08-20 17:05:35,867 - INFO - Chrome browser launched and navigated to login page.
-2025-08-20 17:05:38,535 - INFO - Starting Checklist creation flow.
-2025-08-20 17:05:39,326 - INFO - Entered checklist title
-2025-08-20 17:05:39,483 - INFO - Entered tag
-2025-08-20 17:05:39,830 - INFO - Entered description
-2025-08-20 17:05:41,956 - INFO - Checklist published: Automated Checklist - August 6o
-2025-08-20 17:05:42,741 - INFO - Checklist created: Automated Checklist - August 6o
-2025-08-20 17:05:46,990 - INFO - Browser session ended.
-2025-08-20 17:07:54,314 - INFO - Chrome browser launched and navigated to login page.
-2025-08-20 17:07:56,856 - INFO - Starting Checklist creation flow.
-2025-08-20 17:07:57,726 - INFO - Entered checklist title
-2025-08-20 17:07:57,893 - INFO - Entered tag
-2025-08-20 17:07:58,211 - INFO - Entered description
-2025-08-20 17:08:00,448 - INFO - Checklist published: Automated Checklist - August 6
-2025-08-20 17:08:21,823 - INFO - [Saved] Screenshot → C:\Users\Jones\PycharmProjects\pythonProject\ProAssist\Screenshots\20250820_170821_FAILED_test_create_checklist.png
-2025-08-20 17:08:26,122 - INFO - Browser session ended.
-2025-08-20 17:11:51,013 - INFO - Chrome browser launched and navigated to login page.
-2025-08-20 17:11:53,609 - INFO - Starting Checklist creation flow.
-2025-08-20 17:11:54,526 - INFO - Entered checklist title
-2025-08-20 17:11:54,719 - INFO - Entered tag
-2025-08-20 17:11:55,047 - INFO - Entered description
-2025-08-20 17:11:57,237 - INFO - Checklist published: Automated Checklist - August 6
-2025-08-20 17:11:57,238 - INFO - Checklist created: we aa rrerre
-2025-08-20 17:11:57,533 - INFO - [Saved] Screenshot → C:\Users\Jones\PycharmProjects\pythonProject\ProAssist\Screenshots\20250820_171157_FAILED_test_create_checklist.png
-2025-08-20 17:12:01,773 - INFO - Browser session ended.
-2025-08-20 17:13:26,200 - INFO - Chrome browser launched and navigated to login page.
-2025-08-20 17:13:28,805 - INFO - Starting Checklist creation flow.
-2025-08-20 17:13:29,579 - INFO - Entered checklist title
-2025-08-20 17:13:29,745 - INFO - Entered tag
-2025-08-20 17:13:30,064 - INFO - Entered description
-2025-08-20 17:13:32,173 - INFO - Checklist published: Automated Checklist - August 6
-2025-08-20 17:13:32,173 - INFO - Checklist created: we aa rrerre
-2025-08-20 17:13:32,447 - INFO - [Saved] Screenshot → C:\Users\Jones\PycharmProjects\pythonProject\ProAssist\Screenshots\20250820_171332_FAILED_test_create_checklist.png
-2025-08-20 17:13:36,720 - INFO - Browser session ended.
-2025-08-20 17:16:51,799 - INFO - Chrome browser launched and navigated to login page.
-2025-08-20 17:16:54,504 - INFO - Starting Checklist creation flow.
-2025-08-20 17:16:55,244 - INFO - Entered checklist title
-2025-08-20 17:16:55,408 - INFO - Entered tag
-2025-08-20 17:16:55,747 - INFO - Entered description
-2025-08-20 17:16:57,865 - INFO - Checklist published: Automated Checklist - August 6
-2025-08-20 17:16:57,867 - INFO - Checklist created: we aa rrerre
-2025-08-20 17:16:58,098 - ERROR - Screenshot saved on failure → C:\Users\Jones\PycharmProjects\pythonProject\ProAssist\tests\Screenshots\tests/test_checklist.py_TestChecklist_test_create_checklist.png
-2025-08-20 17:17:02,340 - INFO - Browser session ended.
-2025-08-20 18:37:06,483 - INFO - Chrome browser launched and navigated to login page.
-2025-08-20 18:37:18,815 - INFO - Job created: RE Hunter quarterly service
-2025-08-20 18:37:23,086 - INFO - Browser session ended.
-2025-08-20 18:38:56,604 - INFO - Chrome browser launched and navigated to login page.
-2025-08-20 18:38:57,042 - ERROR - Screenshot saved on failure → C:\Users\Jones\PycharmProjects\pythonProject\ProAssist\tests\Screenshots\tests/test_login.py_TestLogin_test_wrong_email_wrong_password.png
-2025-08-20 18:39:01,264 - INFO - Browser session ended.
-2025-08-20 18:41:33,326 - INFO - Chrome browser launched and navigated to login page.
-2025-08-20 18:41:38,333 - INFO - Browser session ended.
-2025-08-20 18:41:46,149 - INFO - Chrome browser launched and navigated to login page.
-2025-08-20 18:41:51,157 - INFO - Browser session ended.
-2025-08-20 18:42:23,219 - INFO - Chrome browser launched and navigated to login page.
-2025-08-20 18:42:28,056 - INFO - Browser session ended.
-2025-08-20 18:44:08,398 - INFO - Chrome browser launched and navigated to login page.
-2025-08-20 18:44:19,335 - INFO - Browser session ended.
-2025-08-20 20:47:28,730 - INFO - Chrome browser launched and navigated to login page.
-2025-08-20 20:47:58,236 - INFO - Browser session ended.
-2025-08-20 20:50:32,154 - INFO - Chrome browser launched and navigated to login page.
-2025-08-20 20:50:36,800 - INFO - User logged out successfully.
-2025-08-20 20:50:42,404 - INFO - Browser session ended.
-2025-08-20 20:51:06,500 - INFO - Chrome browser launched and navigated to login page.
-2025-08-20 20:51:09,573 - INFO - Toast message: Email sent successfully
-2025-08-20 20:51:14,185 - INFO - Browser session ended.
-2025-08-20 20:53:34,365 - INFO - Chrome browser launched and navigated to login page.
-2025-08-20 20:53:51,239 - INFO - Job created: RE Hunter quarterly service
-2025-08-20 20:53:55,786 - INFO - Browser session ended.
-2025-08-20 20:59:16,254 - INFO - Chrome browser launched and navigated to login page.
-2025-08-20 20:59:19,519 - INFO - Starting Checklist creation flow.
-2025-08-20 20:59:24,438 - INFO - Browser session ended.
-2025-08-20 20:59:56,132 - INFO - Chrome browser launched and navigated to login page.
-2025-08-20 20:59:59,383 - INFO - Starting Checklist creation flow.
-2025-08-20 21:00:04,375 - INFO - Browser session ended.
-2025-08-20 21:00:43,739 - INFO - Chrome browser launched and navigated to login page.
-2025-08-20 21:00:52,198 - INFO - Browser session ended.
-2025-08-21 17:20:20,525 - INFO - Chrome browser launched and navigated to login page.
-2025-08-21 17:20:29,224 - INFO - Browser session ended.
-2025-08-21 17:23:45,937 - INFO - Chrome browser launched and navigated to login page.
-2025-08-21 17:23:54,602 - INFO - Browser session ended.
-2025-08-21 17:24:03,551 - INFO - Chrome browser launched and navigated to login page.
-2025-08-21 17:24:11,839 - INFO - Browser session ended.
-2025-08-21 17:24:35,483 - INFO - Chrome browser launched and navigated to login page.
-2025-08-21 17:24:38,906 - INFO - Starting Checklist creation flow.
-2025-08-21 17:24:43,871 - INFO - Browser session ended.
-2025-08-21 17:24:51,555 - INFO - Chrome browser launched and navigated to login page.
-2025-08-21 17:24:54,748 - INFO - Starting Checklist creation flow.
-2025-08-21 17:24:59,788 - INFO - Browser session ended.
-2025-08-21 17:28:11,675 - INFO - Chrome browser launched and navigated to login page.
-2025-08-21 17:28:15,139 - INFO - Starting Checklist creation flow.
-2025-08-21 17:28:19,856 - INFO - Browser session ended.
-2025-08-21 17:32:04,791 - INFO - Chrome browser launched and navigated to login page.
-2025-08-21 17:32:07,997 - INFO - Starting Checklist creation flow.
-2025-08-21 17:32:09,410 - INFO - Entered checklist title
-2025-08-21 17:32:09,843 - INFO - Entered tag
-2025-08-21 17:32:10,624 - INFO - Entered description
-2025-08-21 17:32:14,884 - INFO - Checklist published: Automated Checklist - August 6
-2025-08-21 17:32:15,243 - INFO - Checklist created: Automated Checklist - August 6
-2025-08-21 17:32:19,915 - INFO - Browser session ended.
-2025-08-21 18:19:38,428 - INFO - Chrome browser launched and navigated to login page.
-2025-08-21 18:19:44,770 - INFO - Browser session ended.
-2025-08-21 18:19:55,529 - INFO - Chrome browser launched and navigated to login page.
-2025-08-21 18:20:01,243 - INFO - Browser session ended.
-2025-08-21 18:23:59,827 - INFO - Chrome browser launched and navigated to login page.
-2025-08-21 18:24:07,683 - INFO - Browser session ended.
-2025-08-21 18:30:06,765 - INFO - Chrome browser launched and navigated to login page.
-2025-08-21 18:30:13,751 - INFO - Browser session ended.
-2025-08-21 18:30:55,535 - INFO - Chrome browser launched and navigated to login page.
-2025-08-21 18:31:00,973 - INFO - Browser session ended.
-2025-08-21 18:32:03,756 - INFO - Chrome browser launched and navigated to login page.
-2025-08-21 18:32:18,460 - INFO - Browser session ended.
-2025-08-21 18:33:09,157 - INFO - Chrome browser launched and navigated to login page.
-2025-08-21 18:33:22,710 - INFO - Browser session ended.
-2025-08-21 19:24:53,861 - INFO - Chrome browser launched and navigated to login page.
-2025-08-21 19:24:57,760 - INFO - Toast message: Email sent successfully
-2025-08-21 19:25:02,290 - INFO - Browser session ended.
-2025-08-21 19:25:06,727 - INFO - Chrome browser launched and navigated to login page.
-2025-08-21 19:25:24,060 - INFO - Job created: RE Hunter quarterly service
-2025-08-21 19:25:28,751 - INFO - Browser session ended.
-2025-08-21 19:25:33,084 - INFO - Chrome browser launched and navigated to login page.
-2025-08-21 19:25:46,849 - INFO - Browser session ended.
-2025-08-21 19:25:51,320 - INFO - Chrome browser launched and navigated to login page.
-2025-08-21 19:25:55,832 - INFO - User logged out successfully.
-2025-08-21 19:26:02,991 - INFO - Browser session ended.
+2025-08-22 18:26:31,025 - INFO - Chrome browser launched and navigated to login page.
+2025-08-22 18:26:33,610 - INFO - Starting Checklist creation flow.
+2025-08-22 18:26:34,589 - INFO - Entered checklist title
+2025-08-22 18:26:34,743 - INFO - Entered tag
+2025-08-22 18:26:35,120 - INFO - Entered description
+2025-08-22 18:26:37,293 - INFO - Checklist published: Automated Checklist - August 22
+2025-08-22 18:26:38,085 - INFO - Checklist created: Automated Checklist - August 22
+2025-08-22 18:26:42,323 - INFO - Browser session ended.
+2025-08-22 18:37:40,703 - INFO - Chrome browser launched and navigated to login page.
+2025-08-22 18:37:43,155 - INFO - Starting Checklist creation flow.
+2025-08-22 18:37:49,546 - INFO - Browser session ended.
+2025-08-22 18:37:52,229 - INFO - Chrome browser launched and navigated to login page.
+2025-08-22 18:37:54,770 - INFO - Toast message: Email sent successfully
+2025-08-22 18:37:58,975 - INFO - Browser session ended.
+2025-08-22 18:38:02,840 - INFO - Chrome browser launched and navigated to login page.
+2025-08-22 18:38:18,641 - INFO - Job created: Happy Friday 22nd August, 2025
+2025-08-22 18:38:22,901 - INFO - Browser session ended.
+2025-08-22 18:38:25,416 - INFO - Chrome browser launched and navigated to login page.
+2025-08-22 18:38:34,355 - INFO - Browser session ended.
+2025-08-22 18:38:37,399 - INFO - Chrome browser launched and navigated to login page.
+2025-08-22 18:38:40,333 - INFO - User logged out successfully.
+2025-08-22 18:38:45,588 - INFO - Browser session ended.
+2025-08-22 19:00:21,549 - INFO - Chrome browser launched and navigated to login page.
+2025-08-22 19:00:24,018 - INFO - Starting Checklist creation flow.
+2025-08-22 19:00:24,726 - INFO - Entered checklist title
+2025-08-22 19:00:24,890 - INFO - Entered tag
+2025-08-22 19:00:25,205 - INFO - Entered description
+2025-08-22 19:00:27,306 - INFO - Checklist published: Automated Checklist - August 22
+2025-08-22 19:00:28,089 - INFO - Checklist created: Automated Checklist - August 22
+2025-08-22 19:00:32,321 - INFO - Browser session ended.
+2025-08-22 19:01:06,960 - INFO - Chrome browser launched and navigated to login page.
+2025-08-22 19:01:09,390 - INFO - Starting Checklist creation flow.
+2025-08-22 19:01:10,287 - INFO - Entered checklist title
+2025-08-22 19:01:10,486 - INFO - Entered tag
+2025-08-22 19:01:10,799 - INFO - Entered description
+2025-08-22 19:01:13,006 - INFO - Checklist published: Automated Checklist - August 22
+2025-08-22 19:01:13,775 - INFO - Checklist created: Automated Checklist - August 22
+2025-08-22 19:01:18,026 - INFO - Browser session ended.
+2025-08-22 19:01:20,550 - INFO - Chrome browser launched and navigated to login page.
+2025-08-22 19:01:23,041 - INFO - Toast message: Email sent successfully
+2025-08-22 19:01:27,262 - INFO - Browser session ended.
+2025-08-22 19:01:29,840 - INFO - Chrome browser launched and navigated to login page.
+2025-08-22 19:01:44,849 - INFO - Job created: Happy Friday 22nd August, 2025
+2025-08-22 19:01:49,088 - INFO - Browser session ended.
+2025-08-22 19:01:51,697 - INFO - Chrome browser launched and navigated to login page.
+2025-08-22 19:02:01,796 - INFO - Browser session ended.
+2025-08-22 19:02:04,736 - INFO - Chrome browser launched and navigated to login page.
+2025-08-22 19:02:07,668 - INFO - User logged out successfully.
+2025-08-22 19:02:12,922 - INFO - Browser session ended.
+2025-08-22 19:40:11,657 - INFO - Chrome browser launched and navigated to login page.
+2025-08-22 19:40:14,667 - INFO - Starting Checklist creation flow.
+2025-08-22 19:40:15,514 - INFO - Entered checklist title
+2025-08-22 19:40:15,689 - INFO - Entered tag
+2025-08-22 19:40:15,984 - INFO - Entered description
+2025-08-22 19:40:18,402 - INFO - Checklist published: Automated Checklist - August 22
+2025-08-22 19:40:19,177 - INFO - Checklist created: Automated Checklist - August 22
+2025-08-22 19:40:23,458 - INFO - Browser session ended.
+2025-08-22 19:57:45,489 - INFO - Chrome browser launched and navigated to login page.
+2025-08-22 19:57:47,962 - INFO - Starting Checklist creation flow.
+2025-08-22 19:57:48,863 - INFO - Entered checklist title
+2025-08-22 19:57:49,038 - INFO - Entered tag
+2025-08-22 19:57:49,363 - INFO - Entered description
+2025-08-22 19:57:51,564 - INFO - Checklist published: Automated Checklist - August 22
+2025-08-22 19:58:11,071 - INFO - Browser session ended.
+2025-08-22 19:58:13,780 - INFO - Chrome browser launched and navigated to login page.
+2025-08-22 19:58:16,375 - INFO - Toast message: Email sent successfully
+2025-08-22 19:58:20,549 - INFO - Browser session ended.
+2025-08-22 19:58:23,068 - INFO - Chrome browser launched and navigated to login page.
+2025-08-22 19:58:38,242 - INFO - Job created: Happy Friday 22nd August, 2025
+2025-08-22 19:58:42,516 - INFO - Browser session ended.
+2025-08-22 19:58:45,220 - INFO - Chrome browser launched and navigated to login page.
+2025-08-22 19:58:55,164 - INFO - Browser session ended.
+2025-08-22 19:58:57,624 - INFO - Chrome browser launched and navigated to login page.
+2025-08-22 19:59:00,994 - INFO - User logged out successfully.
+2025-08-22 19:59:06,320 - INFO - Browser session ended.
+2025-08-22 20:00:32,479 - INFO - Chrome browser launched and navigated to login page.
+2025-08-22 20:00:35,076 - INFO - Starting Checklist creation flow.
+2025-08-22 20:00:35,990 - INFO - Entered checklist title
+2025-08-22 20:00:36,140 - INFO - Entered tag
+2025-08-22 20:00:36,492 - INFO - Entered description
+2025-08-22 20:00:38,673 - INFO - Checklist published: Automated Checklist - August 22
+2025-08-22 20:00:40,706 - INFO - Checklist created: Automated Checklist - August 22
+2025-08-22 20:00:46,532 - INFO - Browser session ended.
+2025-08-22 20:01:15,379 - INFO - Chrome browser launched and navigated to login page.
+2025-08-22 20:01:17,842 - INFO - Starting Checklist creation flow.
+2025-08-22 20:01:18,667 - INFO - Entered checklist title
+2025-08-22 20:01:18,847 - INFO - Entered tag
+2025-08-22 20:01:19,218 - INFO - Entered description
+2025-08-22 20:01:21,407 - INFO - Checklist published: Automated Checklist - August 22
+2025-08-22 20:01:23,450 - INFO - Checklist created: Automated Checklist - August 22
+2025-08-22 20:01:27,657 - INFO - Browser session ended.
+2025-08-22 20:01:30,328 - INFO - Chrome browser launched and navigated to login page.
+2025-08-22 20:01:32,826 - INFO - Toast message: Email sent successfully
+2025-08-22 20:01:37,020 - INFO - Browser session ended.
+2025-08-22 20:01:39,584 - INFO - Chrome browser launched and navigated to login page.
+2025-08-22 20:01:55,258 - INFO - Job created: Happy Friday 22nd August, 2025
+2025-08-22 20:01:59,555 - INFO - Browser session ended.
+2025-08-22 20:02:02,759 - INFO - Chrome browser launched and navigated to login page.
+2025-08-22 20:02:12,716 - INFO - Browser session ended.
+2025-08-22 20:02:15,258 - INFO - Chrome browser launched and navigated to login page.
+2025-08-22 20:02:18,268 - INFO - User logged out successfully.
+2025-08-22 20:02:23,470 - INFO - Browser session ended.

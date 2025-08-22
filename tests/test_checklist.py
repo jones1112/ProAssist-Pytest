@@ -1,7 +1,8 @@
+import time
+
 import pytest
 from Pages.checklist_page import ChecklistPage
 from utils.logger import logger
-
 
 
 @pytest.mark.usefixtures("init", "login")
@@ -16,6 +17,7 @@ class TestChecklist():
         option2 = "Java"
 
         checklist_page.create_checklist(title, tag, description, question, option1, option2)
+        time.sleep(2)
         created_title = checklist_page.get_checklist_title()
         logger.info(f"Checklist created: {created_title}")
 

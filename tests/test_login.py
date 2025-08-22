@@ -14,7 +14,7 @@ class TestLogin:
         self.invalid_email = config.get("credentials", "wrong_email")
 
     def test_wrong_email_wrong_password(self):
-        self.login_page.enter_credentials("wrong@wrong.com", "wrongpassword")
+        self.login_page.enter_credentials("wrong@email.com", "wrongpassword")
         self.login_page.click_signin()
         assert "Incorrect" in self.login_page.get_error_message()
 
