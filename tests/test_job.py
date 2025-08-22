@@ -1,3 +1,5 @@
+import time
+
 import pytest
 from Pages.job_page import JobPage
 from utils.logger import logger
@@ -8,12 +10,13 @@ class TestJob:
     def test_create_job(self):
         job_page = JobPage(self.driver)
 
-        checklist_name = "Automated checklist by JoneS"
-        title = "RE Hunter quarterly service"
+        checklist_name = "Automated Checklist - August 22"
+        title = "Happy Friday 22nd August, 2025"
         tags = ["bike", "service"]
         description = "This is the report of quarterly service of your 2-wheeler"
         scheduled_date = "292025"
         cutoff_date = "11122025"
+        time.sleep(3)
         assignee = "Jones Leo"
         supervisor = "Prod JoneS"
 

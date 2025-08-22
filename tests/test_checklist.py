@@ -9,7 +9,7 @@ class TestChecklist(BasePage):
 
     def test_create_checklist(self):
         checklist_page = ChecklistPage(self.driver)
-        title = "Automated Checklist - August 6"
+        title = "Automated Checklist - August 22"
         tag = "automation"
         description = "Checklist created via Pytest + Selenium"
         question = "Which programming language do you prefer?"
